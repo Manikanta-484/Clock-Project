@@ -30,7 +30,7 @@ Copy code
 
 ## Usage
 1. Clone the repository.
-2. Open `index.html` in your preferred web browser.
+2. Open `a16.html` in your preferred web browser.
    
  <img src="images/img1.png" alt="Screenshot 1">
 <img src="images/img2.png" alt="Screenshot 2">
