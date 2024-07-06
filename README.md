@@ -6,7 +6,6 @@ This project is an animated clock implemented using HTML, CSS, and JavaScript. T
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Components](#components)
 - [Screenshots](#screenshots)
 
 ## Features
@@ -18,16 +17,16 @@ This project is an animated clock implemented using HTML, CSS, and JavaScript. T
 ## Project Structure
 Animated Clock Project
 │
-├── index.html
-├── style.css
-└── script.js
+├── a16.html
+├── a16.css
+└── a16.js
 
 php
 Copy code
 
-- `index.html`: The HTML file contains the structure of the clock.
-- `style.css`: The CSS file styles the clock, including handling themes and animations.
-- `script.js`: The JavaScript file updates the clock hands and manages the animations.
+- `a16.html`: The HTML file contains the structure of the clock.
+- `a16.css`: The CSS file styles the clock, including handling themes and animations.
+- `a16.js`: The JavaScript file updates the clock hands and manages the animations.
 
 ## Usage
 1. Clone the repository.
