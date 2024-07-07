@@ -21,9 +21,6 @@ Animated Clock Project
 ├── a16.css
 └── a16.js
 
-php
-Copy code
-
 - `a16.html`: The HTML file contains the structure of the clock.
 - `a16.css`: The CSS file styles the clock, including handling themes and animations.
 - `a16.js`: The JavaScript file updates the clock hands and manages the animations.
